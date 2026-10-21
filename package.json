@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "ioredis": "^5.4.0",
     "pg": "^8.12.0"
   }
 }
